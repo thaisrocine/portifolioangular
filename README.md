@@ -9,7 +9,7 @@
 </div> 
 
 
-
+<head>
 <style> 
 .card {
   /* Add shadows to create the "card" effect */
@@ -28,3 +28,4 @@
 }
  
  </style> 
+ <head>
