@@ -1,6 +1,5 @@
 <h4> Thaisinha </h4>
 
-
  <div class="card">
   <img src="img_avatar.png" alt="Avatar" style="width:100%">
   <div class="container">
@@ -10,6 +9,8 @@
 </div> 
 
 
+
+<style> 
 .card {
   /* Add shadows to create the "card" effect */
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
@@ -25,3 +26,5 @@
 .container {
   padding: 2px 16px;
 }
+ 
+ </style> 
